@@ -2,7 +2,7 @@
 这是一个自动验证HWID的插件，专为Yunzai-Bot打造。
 
 # 🌼 安装与使用
-想要更多了解Yunzai-Bot的信息，请访问这个链接。安装与使用步骤如下：
+想要更多了解Yunzai-Bot的信息，请访问[这里](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index)。安装与使用步骤如下：
 
 📁 请直接把我们的插件（js文件）拖放到plugin/example/文件夹中即可。
 
